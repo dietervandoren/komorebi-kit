@@ -4,6 +4,7 @@
 //
 // Created by Matteo Marangoni & Dieter Vandoren 
 // Programming by Riccardo Marogna
+// PCB design by Daan Johan 
 //
 // Info & documentation: https://instrumentinventors.org/editions/iii-sensory-kit-komorebi-instructions/ 
 // GitHub: https://github.com/dietervandoren/komorebi-kit 
